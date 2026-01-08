@@ -1,0 +1,5 @@
+print("My name is G krishna")
+print("Day 1 python at codegnan")
+print("Python is a programming language")
+print("Apple")
+print("This is my first program")
